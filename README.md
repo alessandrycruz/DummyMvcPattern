@@ -1,5 +1,7 @@
 # DummyMvcPattern
 
+MVC Pattern In Android Studio
+
 [ES] Para descargar este proyecto directamente a Android Studio haz lo siguiente.
 
 1. Descargar 'Git' de la siguiente liga: https://git-scm.com/
